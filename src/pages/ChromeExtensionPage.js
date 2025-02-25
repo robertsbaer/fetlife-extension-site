@@ -50,7 +50,7 @@ const ChromeExtensionPage = () => {
             </p>
 
             <img
-              src="/fetlife-availability-badge-preview.png"
+              src="fetlife-availability-badge-preview.png"
               alt="FetLife Availability Badge - See who’s online instantly"
               className="preview-image"
             />
