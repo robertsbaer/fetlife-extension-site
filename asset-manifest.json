@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fetlife-extension-site/static/css/main.f777280e.css",
+    "main.js": "/fetlife-extension-site/static/js/main.170354e5.js",
+    "static/js/453.459c7c54.chunk.js": "/fetlife-extension-site/static/js/453.459c7c54.chunk.js",
+    "index.html": "/fetlife-extension-site/index.html",
+    "main.f777280e.css.map": "/fetlife-extension-site/static/css/main.f777280e.css.map",
+    "main.170354e5.js.map": "/fetlife-extension-site/static/js/main.170354e5.js.map",
+    "453.459c7c54.chunk.js.map": "/fetlife-extension-site/static/js/453.459c7c54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f777280e.css",
+    "static/js/main.170354e5.js"
+  ]
+}
