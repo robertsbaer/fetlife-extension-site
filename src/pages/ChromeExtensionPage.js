@@ -62,7 +62,7 @@ const ChromeExtensionPage = () => {
                 name: "What is the FetLife Availability Badge?",
                 acceptedAnswer: {
                   "@type": "Answer",
-                  text: "The FetLife Availability Badge is a Chrome Extension that lets users see real-time availability on FetLife profiles.",
+                  text: "The <strong>FetLife</strong> Availability Badge is a Chrome Extension that lets users see real-time availability on FetLife profiles.",
                 },
               },
               {
@@ -83,17 +83,17 @@ const ChromeExtensionPage = () => {
         <section className="hero-section">
           <div className="container">
             <h1>
-              FetLife Availability Badge - Chrome Extension for Instant
-              Connections
+              <strong>FetLife</strong> Availability Badge - Chrome Extension for
+              Instant Connections
             </h1>
             <p className="subtitle">
-              Enhance your FetLife experience with our seamlessly integrated
-              Chrome Extension.
+              Enhance your <strong>FetLife</strong> experience with our
+              seamlessly integrated Chrome Extension.
             </p>
 
             <img
               src="fetlife-availability-badge-preview.png"
-              alt="FetLife Availability Badge - See who’s online instantly"
+              alt="FetLife Availability Badge - Check who's online on FetLife"
               className="preview-image"
             />
 
@@ -121,7 +121,7 @@ const ChromeExtensionPage = () => {
                 marginBottom: "2rem",
               }}
             >
-              Why Choose the FetLife Availability Badge?
+              Why <strong>FetLife</strong> Users Love This Badge
             </h2>
 
             <div className="features-grid">
@@ -129,15 +129,16 @@ const ChromeExtensionPage = () => {
                 <h3 className="feature-title">Real-Time Availability</h3>
                 <p>
                   See availability badges instantly as you browse profiles and
-                  feeds, helping you connect at the right moment.
+                  feeds, helping you connect at the right moment on{" "}
+                  <strong>FetLife</strong>.
                 </p>
               </div>
 
               <div className="feature-card">
                 <h3 className="feature-title">Seamless Integration</h3>
                 <p>
-                  Perfectly integrated with FetLife's design, providing a
-                  natural and enhanced browsing experience.
+                  Perfectly integrated with <strong>FetLife</strong>'s design,
+                  providing a natural and enhanced browsing experience.
                 </p>
               </div>
 
@@ -163,13 +164,16 @@ const ChromeExtensionPage = () => {
         {/* FAQ Section */}
         <section className="faq-section">
           <div className="container">
-            <h2>Frequently Asked Questions</h2>
+            <h2>
+              Frequently Asked Questions about <strong>FetLife</strong>
+            </h2>
 
             <div className="faq-item">
               <h3>What is the FetLife Availability Badge?</h3>
               <p>
-                The FetLife Availability Badge is a Chrome Extension that lets
-                users see real-time availability on FetLife profiles.
+                The <strong>FetLife</strong> Availability Badge is a Chrome
+                Extension that lets users see real-time availability on FetLife
+                profiles.
               </p>
             </div>
 
