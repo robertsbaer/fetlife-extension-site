@@ -4,7 +4,7 @@ import ChromeExtensionPage from "./pages/ChromeExtensionPage";
 
 const App = () => {
   return (
-    <Router basename="/fetlife-extension-site">
+    <Router basename="/">
       <Routes>
         <Route path="/" element={<ChromeExtensionPage />} />
       </Routes>
