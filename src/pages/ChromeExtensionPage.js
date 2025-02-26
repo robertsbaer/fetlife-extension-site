@@ -13,7 +13,7 @@ const ChromeExtensionPage = () => {
           name="description"
           content="Boost your FetLife experience with the FetLife Availability Badge! Instantly see who's available and ready to chat with our seamless Chrome extension. Secure, fast, and easy to install!"
         />
-        <link rel="canonical" href="https://yourdomain.com/" />
+        <link rel="canonical" href="https://fetlifeavailability.top/" />
 
         {/* Open Graph Meta Tags */}
         <meta
@@ -26,9 +26,9 @@ const ChromeExtensionPage = () => {
         />
         <meta
           property="og:image"
-          content="https://yourdomain.com/path-to-og-image.jpg"
+          content="https://fetlifeavailability.top/path-to-og-image.jpg"
         />
-        <meta property="og:url" content="https://yourdomain.com/" />
+        <meta property="og:url" content="https://fetlifeavailability.top/" />
         <meta property="og:type" content="website" />
 
         {/* Twitter Card Meta Tags */}
@@ -43,7 +43,7 @@ const ChromeExtensionPage = () => {
         />
         <meta
           name="twitter:image"
-          content="https://yourdomain.com/path-to-twitter-image.jpg"
+          content="https://fetlifeavailability.top/path-to-twitter-image.jpg"
         />
 
         <link
